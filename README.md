@@ -1,8 +1,8 @@
 # <img src="https://github.com/OpenGSL/OpenGSL/blob/main/docs/source/img/opengsl.jpg" width="90"> Awesome Graph Data-Centric Learning Papers 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
->An awesome&amp;curated list of the advanced graph data-centric (i.e.,sparsification,structure learning) learning papers(2023-present) with summaries. We will track the development of graph data-centric learning and update the list frequently. :pray:**Please star us if you found our repository helpful**. :pray:
+>An awesome&amp;curated list of the advanced graph data-centric (i.e.,graph sparsification,graph structure denoise,graph condensation) learning papers(2023-present) with summaries. We will track the development of graph data-centric learning and update the list frequently. :pray:**Please star us if you found our repository helpful**. :pray:
 
-> \*We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
+> We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
 - **[WWW 2025|Structure Refinement]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into SOTA GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
