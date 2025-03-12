@@ -1,13 +1,16 @@
 # <img src="https://github.com/OpenGSL/OpenGSL/blob/main/docs/source/img/opengsl.jpg" width="90"> Awesome Graph Data-Centric Learning Papers 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
->An awesome&amp;curated list of the advanced graph data-centric (i.e.,graph sparsification,graph structure denoise,graph condensation) learning papers(2023-present) with summaries. We will track the development of graph data-centric learning and update the list frequently. :pray:**Please star us if you found our repository helpful**. :pray:
+>An awesome&amp;curated list of the advanced graph data-centric (i.e.,graph sparsification,graph data denoise,graph condensation) learning papers(2023-present) with summaries. We will track the development of graph data-centric learning and update the list frequently. :pray:**Please star us if you found our repository helpful**. :pray:
 
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
 - **[WWW 2025|Structure Refinement]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into SOTA GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
 - **[ICLR 2025|Structure Sparsification]** [Graph Sparsification via Mixture of Graphs](https://arxiv.org/abs/2405.14260) proposes a MoE-based sparsification framework that combines multiple sparsification approaches.
+- - **[Arxiv 2025 Graph Uncertainty]** [Uncertainty in Graph Neural Networks: A Survey](https://arxiv.org/abs/2403.07185).
 ## 2024
+- **[NIPS 2024 Graph Condensation]** [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/abs/2407.00615) introduce a benchmark for graph condensation methods.
+- **[Arxiv 2024 Sparsification|Condensation]** [Data-centric Graph Learning: A Survey](https://arxiv.org/abs/2310.04987).
 - **[Arxiv 2024 LLM4GSL]** [Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning](https://arxiv.org/abs/2410.12096) first utilizes a large language model (LLM) to derive cleaned node text information, and then adopts an iterative learning paradigm along with a pseudo-labeling strategy to incorporate text features into the structural representation.
 - **[Arxiv 2024 LLM4GSL]** [GraphEdit: Large Language Models for Graph Structure Learning](https://arxiv.org/abs/2402.15183) utilize a text classification task to fine-tune the text encoder in the LLM, and then use the pretrained text embeddings to construct the learned graph.
 - **[CIKM 2024|Structure Refinement&Feature Denoising]** [You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning](https://arxiv.org/abs/2408.00700) remove noise from structural features and node attribute features.
