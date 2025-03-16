@@ -5,6 +5,7 @@
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
+- **[Arxiv 2025|Pure LLM+Prompt for Graph learning]** [Exploring Graph Tasks with LLMs: A Comprehensive Benchmark and Investigation](https://arxiv.org/abs/2502.18771) A pure LLM, combined with appropriate prompts, can outperform various GNN models.
 - **[WWW 2025|Structure Refinement]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into SOTA GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
 - **[ICLR 2025|Structure Sparsification]** [Graph Sparsification via Mixture of Graphs](https://arxiv.org/abs/2405.14260) proposes a MoE-based sparsification framework that combines multiple sparsification approaches.
 - **[Arxiv 2025 Graph Uncertainty]** [Uncertainty in Graph Neural Networks: A Survey](https://arxiv.org/abs/2403.07185).
