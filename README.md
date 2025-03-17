@@ -10,6 +10,7 @@
 - **[ICLR 2025|Structure Sparsification]** [Graph Sparsification via Mixture of Graphs](https://arxiv.org/abs/2405.14260) proposes a MoE-based sparsification framework that combines multiple sparsification approaches.
 - **[Arxiv 2025 Graph Uncertainty]** [Uncertainty in Graph Neural Networks: A Survey](https://arxiv.org/abs/2403.07185).
 ## 2024
+- **[KDD 2024|Graph Domain Adaptation]** [Can Modifying Data Address Graph Domain Adaptation?](https://arxiv.org/abs/2407.19311)
 - **[NIPS 2024 Graph Condensation]** [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/abs/2407.00615) introduce a benchmark for graph condensation methods.
 - **[Arxiv 2024 Sparsification|Condensation]** [Data-centric Graph Learning: A Survey](https://arxiv.org/abs/2310.04987).
 - **[Arxiv 2024 LLM4GSL]** [Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning](https://arxiv.org/abs/2410.12096) first utilizes a large language model (LLM) to derive cleaned node text information, and then adopts an iterative learning paradigm along with a pseudo-labeling strategy to incorporate text features into the structural representation.
