@@ -1,4 +1,4 @@
-# <img src="https://github.com/OpenGSL/OpenGSL/blob/main/docs/source/img/opengsl.jpg" width="90"> Awesome Graph Data-Centric Learning Papers 
+# <img src="https://github.com/OpenGSL/OpenGSL/blob/main/docs/source/img/opengsl.jpg" width="90"> Awesome Data-Centric Graph Learning Papers 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 >An awesome&amp;curated list of the advanced data-centric graph (i.e.,graph sparsification,graph data denoise,graph condensation) learning papers(2023-present) with summaries. We will track the development of graph data-centric learning and update the list frequently. :pray:**Please star us if you found our repository helpful**. :pray:
 
