@@ -5,6 +5,7 @@
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
+- **[Arxiv 2025|LLM4GSL]** [Rethinking Graph Structure Learning in the Era of LLMs](https://arxiv.org/abs/2502.18771).
 - **[KDD 2025|LLM+GSL]** [Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?](https://arxiv.org/abs/2408.08685)  training an LM-based edge predictor for robustness GNN.
 - **[Arxiv 2025|Pure LLM+Prompt for Graph learning]** [Exploring Graph Tasks with LLMs: A Comprehensive Benchmark and Investigation](https://arxiv.org/abs/2502.18771) A pure LLM, combined with appropriate prompts, can outperform various GNN models.
 - **[WWW 2025|Structure Refinement]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into SOTA GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
