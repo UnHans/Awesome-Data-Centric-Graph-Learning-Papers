@@ -11,6 +11,7 @@
 - **[WWW 2025|Structure Refinement]** [Uncertainty-aware Graph Structure Learning](https://arxiv.org/abs/2502.12618) proposes a lightweight plug-in module, UnGSL, that can be seamlessly integrated into SOTA GSL models to enhance their accuracy and robustness. UnGSL is both simple and effective; it employs node-wise learnable thresholds to differentiate neighbors based on varying confidence levels and adaptively adjusts the corresponding edge weights.
 - **[ICLR 2025|Structure Sparsification]** [Graph Sparsification via Mixture of Graphs](https://arxiv.org/abs/2405.14260) proposes a MoE-based sparsification framework that combines multiple sparsification approaches.
 - **[ICLR 2025|Structure and Feature Denoise]** [Joint Graph Rewiring and Feature Denoising via Spectral Resonance](https://arxiv.org/abs/2405.14260).
+- **[ICLR 2025|Graph Feature Selection]** [Let Your Features Tell The Differences: Understanding Graph Convolution By Feature Splitting](https://iclr.cc/virtual/2025/poster/30186).
 - **[Arxiv 2025 Graph Uncertainty]** [Uncertainty in Graph Neural Networks: A Survey](https://arxiv.org/abs/2403.07185).
 ## 2024
 - **[KDD 2024|Graph Domain Adaptation]** [Can Modifying Data Address Graph Domain Adaptation?](https://arxiv.org/abs/2407.19311)
