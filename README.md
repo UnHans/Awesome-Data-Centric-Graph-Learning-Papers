@@ -5,6 +5,8 @@
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
+- **[ICLR 2025|Node Selection|Graph Condensation]** [Bonsai: Gradient-free Graph Condensation for Node Classification
+](https://arxiv.org/abs/2410.17579) This paper aims to select representative and diverse nodes from the training set to accelerate GNN training.
 - **[Arxiv 2025|LLM4GSL]** [Rethinking Graph Structure Learning in the Era of LLMs](https://arxiv.org/abs/2408.07191).
 - **[KDD 2025|LLM+GSL]** [Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?](https://arxiv.org/abs/2408.08685)  training an LM-based edge predictor for robustness GNN.
 - **[Arxiv 2025|Pure LLM+Prompt for Graph learning]** [Exploring Graph Tasks with LLMs: A Comprehensive Benchmark and Investigation](https://arxiv.org/abs/2502.18771) A pure LLM, combined with appropriate prompts, can outperform various GNN models.
