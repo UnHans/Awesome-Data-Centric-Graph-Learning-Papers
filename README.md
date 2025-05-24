@@ -5,6 +5,7 @@
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
+- **[ICDE 2025|Efficient GSL]** [Towards Scalable and Efficient Graph Structure Learning] reduce running time and scale to very large graphs.
 - **[ICLR 2025|Node Selection|Graph Condensation]** [Bonsai: Gradient-free Graph Condensation for Node Classification
 ](https://arxiv.org/abs/2410.17579) This paper aims to select representative and diverse nodes from the training set to accelerate GNN training.
 - **[Arxiv 2025|LLM4GSL]** [Rethinking Graph Structure Learning in the Era of LLMs](https://arxiv.org/abs/2408.07191).
