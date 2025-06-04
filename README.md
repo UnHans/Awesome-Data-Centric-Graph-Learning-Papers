@@ -5,6 +5,13 @@
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
+- **[ICML 2025|Graph Purification]** [Self-supervised Adversarial Purification for Graph Neural Networks]
+- **[ICML 2025|Structure Theorem]** [On the Interplay between Graph Structure and Learning Algorithms in Graph Neural Networks]
+- **[ICML 2025|Structure Sparsification]** [Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification]
+- **[ICML 2025|Node Label|Structure Learning]** [Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks](https://arxiv.org/html/2411.02279v2)
+- **[ICML 2025|Edge Selection]** [Self-supervised Masked Graph Autoencoder via Structure-aware Curriculum]
+- **[ICML 2025|Graph Augmentation]** [Learn Beneficial Noise as Graph Augmentation](https://arxiv.org/abs/2505.19024)
+- **[ICML 2025|Efficient Graph Condensation]** [Adapting Precomputed Features for Efficient Graph Condensation]
 - **[ICDE 2025|Efficient GSL]** [Towards Scalable and Efficient Graph Structure Learning] reduce running time and scale to very large graphs.
 - **[ICLR 2025|Node Selection|Graph Condensation]** [Bonsai: Gradient-free Graph Condensation for Node Classification
 ](https://arxiv.org/abs/2410.17579) This paper aims to select representative and diverse nodes from the training set to accelerate GNN training.
