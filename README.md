@@ -5,6 +5,7 @@
 > We have developed [OpenGSL](https://github.com/OpenGSL/OpenGSL), a fair and comprehensive platform to evaluate existing GSL works and facilitate future GSL research. **Please star us and explore our project if you found our repositories helpful**.
 
 ## 2025
+- **[Arxiv 2025|Efficient GSL]** [GraphFLEx: Structure Learning Framework for Large Expanding Graphs](https://arxiv.org/abs/2505.12323)
 - **[ICML 2025|Graph Purification]** [Self-supervised Adversarial Purification for Graph Neural Networks]
 - **[ICML 2025|Structure Theorem]** [On the Interplay between Graph Structure and Learning Algorithms in Graph Neural Networks]
 - **[ICML 2025|Structure Sparsification]** [Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification]
